@@ -1,6 +1,9 @@
 <h1 align="center">THIS IS NOT MY SCRIPT, I SIMPLY REUPLOADED IT BECAUSE ORIGINAL CREATOR VANISHED. IF YOU (QuantumMalice) WANT IT REMOVED, PLEASE CONTACT ME.</h1>
 
 
+
+
+
 ![Main Banner](https://cdn.discordapp.com/attachments/688864735646580762/1178975479861104710/QM-main_2.png?ex=660286fa&is=65f011fa&hm=6d357d39e8c7158dd96c57f1256a02d68ecabf201c87d4160eb1b79d9fb30fd4&)
 
 ## __Features:__
